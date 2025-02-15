@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('file:///C:/PROGRAMMING/GYM%20WEB/images/pexels-leonardho-1552252.jpg');
+     background: url('../images/pexels-leonardho-1552252.jpg') no-repeat center center fixed;
     background-size: cover;
     background-attachment: scroll;
     height: 100vh;
